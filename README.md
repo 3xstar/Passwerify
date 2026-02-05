@@ -1,4 +1,4 @@
-# PyQt_Project
+# Passwerify
 First PyQt project
 
 
